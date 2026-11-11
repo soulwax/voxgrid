@@ -1,0 +1,11 @@
+name: voxgrid
+description: "Pure Dart hierarchical spatial partitioning with SAH Dynamic BVH, fattened proxy updates, Loose Octree, frustum/sphere/AABB queries, broad-phase pairs, and closest-hit ray traversal."
+version: 0.1.0
+repository: https://github.com/soulwax/voxgrid
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
