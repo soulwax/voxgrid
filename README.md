@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxgrid logo"/>
+</p>
+
 # voxgrid
 
 Pure Dart hierarchical 3D spatial indexing library for game engines and physics broad-phases.
